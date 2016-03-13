@@ -1,6 +1,5 @@
 package com.example.leetcode;
 
-
 public class LinkedList {
     public ListNode head;
 
@@ -28,6 +27,14 @@ public class LinkedList {
 
     public void output() {
         ListNode list = head;
+        while (list != null) {
+            System.out.print(list.val + " ");
+            list = list.next;
+        }
+        System.out.print("\n");
+    }
+
+    public static void outputList(ListNode list) {
         while (list != null) {
             System.out.print(list.val + " ");
             list = list.next;
