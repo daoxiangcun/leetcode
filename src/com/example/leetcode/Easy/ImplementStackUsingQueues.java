@@ -1,10 +1,11 @@
-package com.example.leetcode;
+package com.example.leetcode.Easy;
 
 import java.util.LinkedList;
 import java.util.Queue;
 
 /**
- * leetcode:225. Implement Stack using Queues
+ * leetcode:225. Easy
+ * Implement Stack using Queues
  *Implement the following operations of a stack using queues.
 
  *push(x) -- Push element x onto stack.

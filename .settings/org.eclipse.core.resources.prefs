@@ -1,4 +1,5 @@
 eclipse.preferences.version=1
-encoding//src/com/example/leetcode/AddDigits.java=GBK
-encoding//src/com/example/leetcode/IntersectionOfTwoLinkedLists.java=UTF-8
-encoding//src/com/example/leetcode/MinStack.java=UTF-8
+encoding//src/com/example/leetcode/Easy/AddDigits.java=GBK
+encoding//src/com/example/leetcode/Easy/IntersectionOfTwoLinkedLists.java=UTF-8
+encoding//src/com/example/leetcode/Easy/LengthOfLastWord.java=UTF-8
+encoding//src/com/example/leetcode/Easy/MinStack.java=UTF-8

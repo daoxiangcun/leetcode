@@ -1,4 +1,4 @@
-package com.example.leetcode;
+package com.example.leetcode.Medium;
 /**
  * leetcode 151. Medium
  * 151. Reverse Words in a String My Submissions Question

@@ -1,5 +1,12 @@
-package com.example.leetcode;
+package com.example.leetcode.Easy;
+/**
+ * leetcode 7. Easy
+ * 7. Reverse Integer
+ * Reverse digits of an integer.
 
+Example1: x = 123, return 321
+Example2: x = -123, return -321
+ */
 public class ReverseInteger {
     public static int reverse(int x) {
         boolean negative = x < 0 ? true : false;

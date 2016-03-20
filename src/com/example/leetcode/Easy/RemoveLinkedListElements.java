@@ -1,4 +1,4 @@
-package com.example.leetcode;
+package com.example.leetcode.Easy;
 
 import com.example.leetcode.LinkedList.ListNode;
 

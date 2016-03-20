@@ -1,4 +1,4 @@
-package com.example.leetcode;
+package com.example.leetcode.Easy;
 
 /**
  * leetcode 58. Easy
@@ -16,12 +16,12 @@ public class LengthOfLastWord {
         int len = 0;
         s = s.trim();
         while(q < s.length()) {
-            // 跳过开头空格
+            // 璺宠繃寮�ご绌烘牸
             while(q < s.length() && s.charAt(q) == ' ') {
                 q++;
             }
             p = q;
-            // 计算长度
+            // 璁＄畻闀垮害
             while(q < s.length() && s.charAt(q) != ' ') {
                 q++;
             }

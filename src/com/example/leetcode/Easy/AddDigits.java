@@ -1,6 +1,5 @@
-package com.example.leetcode;
+package com.example.leetcode.Easy;
 
-import java.util.ArrayList;
 
 /**
  * leetcode 258. Easy

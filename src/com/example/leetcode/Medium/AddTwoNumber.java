@@ -1,6 +1,8 @@
-package com.example.leetcode;
+package com.example.leetcode.Medium;
 
-/*2. Add Two Numbers My Submissions Question
+/*
+ * leetcode 2. Medium
+ * 2. Add Two Numbers My Submissions Question
 Total Accepted: 124747 Total Submissions: 557665 Difficulty: Medium
 You are given two linked lists representing two non-negative numbers. The digits are stored in reverse order and each of their nodes contain a single digit. Add the two numbers and return it as a linked list.
 

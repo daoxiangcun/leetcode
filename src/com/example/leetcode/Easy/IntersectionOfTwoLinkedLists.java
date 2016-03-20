@@ -1,9 +1,10 @@
-package com.example.leetcode;
+package com.example.leetcode.Easy;
 
-import com.example.leetcode.AddTwoNumber.LinkedList;
-import com.example.leetcode.AddTwoNumber.ListNode;
+import com.example.leetcode.Medium.AddTwoNumber.LinkedList;
+import com.example.leetcode.Medium.AddTwoNumber.ListNode;
 
 /**
+ * leetcode 160. Easy
  * 160. Intersection of Two Linked Lists My Submissions Question
 Write a program to find the node at which the intersection of two singly linked lists begins.
 

@@ -1,9 +1,10 @@
-package com.example.leetcode;
+package com.example.leetcode.Easy;
 
 import java.util.Stack;
 
 /**
- * leetcode:232. Implement Queue using Stacks
+ * leetcode:232. Easy
+ * Implement Queue using Stacks
  *Implement the following operations of a queue using stacks.
  *push(x) -- Push element x to the back of queue.
  *pop() -- Removes the element from in front of queue.
